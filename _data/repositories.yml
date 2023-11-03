@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
+  - 444thliao
   - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - 444thLiao/WES_pipelines
+  - GPZ-Bioinfo/tmap
+  - 444thLiao/pangenome_workflow
+  - 444thLiao/amplicon_workflow
+  - 444thLiao/evol_tk
+  - 444thLiao/evol_tk
+  - plotly/plotly.py
