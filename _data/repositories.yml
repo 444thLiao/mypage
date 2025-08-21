@@ -7,5 +7,5 @@ github_repos:
   - 444thLiao/pangenome_workflow
   - 444thLiao/amplicon_workflow
   - 444thLiao/evol_tk
-  - 444thLiao/evol_tk
   - plotly/plotly.py
+  - 444thLiao/my_toolkit
