@@ -7,7 +7,7 @@
       value: 4th April 1994
     - name: Languages
       value: English, Chinese
-
+    
 - title: Education
   type: time_table
   contents:
@@ -15,14 +15,13 @@
       institution: The Chinese University of Hong Kong, China
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Date awarded: 31/07/2024
+        - Dissertation: Dating the Evolutionary Origin of Bacteria Driving the Anaerobic and Aerobic Ammonia Oxidation
     - title: BSc in Chemical Biology
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      institution: Sun Yat-sen University, Guangzhou, China
+      year: 2012
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor: Dr. Lin Ma
 
 - title: Experience
   type: time_table
@@ -31,18 +30,14 @@
       institution: Institute of Molecular Biotechnology
       year: 2025
       description:
-        - Description 1.  
     - title: Postdoc
       institution: The Chinese University of Hong Kong, Hong Kong
       year: 2024
       description:
-        - Description 1.  
     - title: Research Assistant
       institution: The Shenzhen Institutes of Advanced Technology
-      year: 1933 - 1955
+      year: 2016 - 2019
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Honors and Awards
   type: time_table
@@ -69,7 +64,3 @@
         - Description 1.
         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

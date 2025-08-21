@@ -6,7 +6,7 @@
     "email": "l0404th@gmail.com",
     "phone": "",
     "url": "https://github.com/444thLiao",
-    "summary": "an bioinformatic ",
+    "summary": "an bioinformatician ",
     "location": {
     },
     "profiles": [
@@ -18,12 +18,12 @@
     {
       "name": "Institute of Molecular Biotechnology",
       "position": "Postdoc",
-      "url": "https://www.imba.oeaw.ac.at/",
-      "startDate": "2025-02",
+      "url": "https://www.oeaw.ac.at/imba/research/alejandro-burga",
+      "startDate": "2025",
       "endDate": "",
       "summary": "Studying nematode genomes and piRNAs using structural-related analyses to study distant homologs.",
       "highlights": [
-        "Relativity"
+        "nematode","piRNA","Structure"
       ]
     }
   ],
