@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: meAndWife.jpg
-    content: about.md
+    content: ning.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>My most beautiful </p>
